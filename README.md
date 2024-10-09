@@ -45,7 +45,7 @@ Ao final deve se exibir uma mensagem:
 
 ## Conclusão
 
-Realizei o projeto em javascrit, mas fui além e refiz em duas linguagens diferentes:
+Realizei o projeto em javascript. Mas fui além, e refiz em duas linguagens diferentes:
 
 * Java (Projeto está na Pasta Java)
 * Python (Projeto está na Pasta Python)
