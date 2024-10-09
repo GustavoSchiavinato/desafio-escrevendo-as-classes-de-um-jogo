@@ -47,5 +47,5 @@ Ao final deve se exibir uma mensagem:
 
 Fiz o projeto em javascript, e também fiz em duas linguagens diferentes orientadas a objetos:
 
-* Java (Projeto está na Pasta Java)
-* Python (Projeto está na Pasta Python)
+* Java (Projeto está na **Pasta Java**)
+* Python (Projeto está na **Pasta Python**)
