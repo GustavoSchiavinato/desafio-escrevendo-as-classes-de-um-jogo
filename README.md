@@ -45,7 +45,7 @@ Ao final deve se exibir uma mensagem:
 
 ## Conclusão
 
-Realizei o projeto em javascript. Mas fui além, e refiz em duas linguagens diferentes:
+Fiz o projeto em javascript, e também fiz em duas linguagens diferentes orientadas a objetos:
 
 * Java (Projeto está na Pasta Java)
 * Python (Projeto está na Pasta Python)
